@@ -202,9 +202,6 @@ DD000000 00000100
 [Invinsible Block]
 0049E730 00000000
 
-[Craft With No Material]
-0024592C E3A040FF
-
 [Cant Pose Bloc]
 0049E750 00000000
 
